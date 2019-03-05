@@ -1,0 +1,2 @@
+# HInagataSceneManager
+シーンマネージャーの雛形
